@@ -301,8 +301,6 @@ This project strictly adheres to physics-informed ML principles:
 3. **Equation Preservation** — ODEs and boundary conditions remain inviolate
 4. **Solver Fidelity** — Models mimic RK4+shooting behavior, not replace it
 
-See `AGENT.md` for complete FPF specification.
-
 ## 🛠️ Technical Details
 
 ### Reproducibility
@@ -374,7 +372,7 @@ MIT License - see LICENSE file for details
 
 For questions or collaborations:
 - GitHub Issues: [NANOFLUIDS Issues](https://github.com/BhaveshBytess/NANOFLUIDS/issues)
-- Email: [Your email if you want to add it]
+- Email: [10bhavesh7.11@gmail.com]
 
 ---
 
