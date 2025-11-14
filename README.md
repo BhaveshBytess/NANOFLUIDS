@@ -14,7 +14,6 @@ This project bridges computational fluid dynamics and machine learning by creati
 
 ```
 NANO-FLUIDS/
-├── 📄 AGENT.md                          # Agent specification & FPF contract
 ├── 📄 README.md                         # This file
 ├── 📄 report.md                         # Detailed technical report
 │
@@ -92,7 +91,7 @@ git clone https://github.com/BhaveshBytess/NANOFLUIDS.git
 cd NANOFLUIDS
 ```
 
-## 📊 Data Workflow (FPF-Compliant)
+## 📊 Data Workflow
 
 ### Step 1: Data Cleaning
 Run either the notebook or the CLI script:
@@ -290,16 +289,6 @@ python model_inference.py --model-type classical --input-csv samples.csv
    - Training with early stopping
    - Learning curves
    - Error analysis
-
-## 🔬 First Principles Framework (FPF)
-
-This project strictly adheres to physics-informed ML principles:
-
-### Core Tenets
-1. **No Hallucinations** — All claims trace back to physics/data
-2. **Fundamental Reasoning** — ML decisions justified by physical meaning
-3. **Equation Preservation** — ODEs and boundary conditions remain inviolate
-4. **Solver Fidelity** — Models mimic RK4+shooting behavior, not replace it
 
 ## 🛠️ Technical Details
 
