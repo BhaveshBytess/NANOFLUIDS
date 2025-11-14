@@ -356,6 +356,8 @@ MIT License - see LICENSE file for details
 ## 👥 Authors
 
 **Bhavesh** — [GitHub](https://github.com/BhaveshBytess)
+**Achyut** — [GitHub](https://github.com/newfool-web)
+**Karan** — [GitHub](https://github.com/karans7104)
 
 ## 📧 Contact
 
